@@ -58,7 +58,7 @@ function App() {
       <p>Exercise 7:</p>
         {input}
 
-        <p>Exercise 7:</p>
+        <p>Exercise 8:</p>
         {person}
     </>
 
