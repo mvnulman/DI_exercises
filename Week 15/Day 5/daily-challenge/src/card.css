@@ -1,0 +1,16 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h3 {
+    /* border: 5px solid black; */
+}
+
+.container {
+    width: auto;
+    color: #fff;
+    height: 75px;
+    border: 1px solid #9DEBCF;
+    background-color: #9DEBCF;
+}
